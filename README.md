@@ -7,8 +7,6 @@ REST API com Node.js e Teste Unitário
 
 ### Instalando TypeScript como dependência de desenvolvimento
    yarn add typescript -D
-
-### Instalando tsx - para testar javascript
    yarn add tsx -D
 
 ### Criando arquivo de configuração do Typescript
